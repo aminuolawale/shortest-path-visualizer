@@ -1,2 +1,2 @@
 # Shortest Path Visualizer
-Shortest path visualizer built using Tkinter
+Shortest path visualizer built using Tkinter library
